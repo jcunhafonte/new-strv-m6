@@ -25,5 +25,3 @@ Create the production build
 ```bash
 $ npm run clean && npm run build:webpack
 ```
-
----
