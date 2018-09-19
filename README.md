@@ -2,10 +2,6 @@
 
 ---
 
-## Bitbucket repository
-
-https://github.com/jcunhafonte/strv
-
 ## Installation
 
 To test the development files, it's necessary to follow these steps:
